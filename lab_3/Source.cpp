@@ -86,5 +86,5 @@ int main()
         s = f(text[i], dict);
         y << s << endl;
     }
-
+    //
 }
